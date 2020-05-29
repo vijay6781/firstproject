@@ -4,12 +4,12 @@
 </head>
 <div class="container">
   <div class="row">
-    <div class="col-sm-4 bg-primary">
+    <div class="col-sm-4">
      <table>
   
 <tr>
-  <th scope="col"> RESULT</th>
-        <th scope="col"> Link</th>
+  <th scope="col bg-success"> RESULT</th>
+        <th scope="col bg-success"> Link</th>
       
 </tr>
 
@@ -40,12 +40,12 @@
 </tr>
 </table>
     </div>
-    <div class="col-sm-4 bg-success">
+    <div class="col-sm-4">
      <table>
   
 <tr>
-  <th scope="col"> RESULT</th>
-        <th scope="col"> Link</th>
+  <th scope="col bg-success"> RESULT</th>
+        <th scope="col bg-success"> Link</th>
       
 </tr>
 
@@ -76,12 +76,12 @@
 </tr>
 </table>
     </div>
-   <div class="col-sm-4 bg-warning">
+   <div class="col-sm-4 ">
      <table>
   
 <tr>
-  <th scope="col"> RESULT</th>
-        <th scope="col"> Link</th>
+  <th scope="col bg-success"> RESULT</th>
+        <th scope="col bg-success"> Link</th>
       
 </tr>
 
