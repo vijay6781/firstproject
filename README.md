@@ -8,7 +8,7 @@
   <p>fast update</p> 
 </div>
   
-<div class="container">
+<div class="container text-center">
   <div class="row">
     <div class="col-sm-4">
      <table>
