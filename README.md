@@ -8,7 +8,7 @@
      <table>
   
 <tr>
-  <th scope="col bg-success"> RESULT</th>
+  <th scope="col" class="bg-success"> RESULT</th>
         <th scope="col" class="bg-success"> Link</th>
       
 </tr>
@@ -44,7 +44,7 @@
      <table>
   
 <tr>
-  <th scope="col bg-success"> RESULT</th>
+  <th scope="col" class="bg-success"> RESULT</th>
         <th scope="col" class="bg-success"> Link</th>
       
 </tr>
@@ -80,7 +80,7 @@
      <table>
   
 <tr>
-  <th scope="col bg-success"> RESULT</th>
+  <th scope="col" class="bg-success"> RESULT</th>
         <th scope="col" class="bg-success"> Link</th>
       
 </tr>
