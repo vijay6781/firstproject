@@ -4,7 +4,7 @@
 </head>
 <div class="container">
   <div class="row">
-    <div class="col-sm-4">
+    <div class="col-sm-4 bg-primary">
      <table>
   
 <tr>
@@ -40,7 +40,7 @@
 </tr>
 </table>
     </div>
-    <div class="col-sm-4">
+    <div class="col-sm-4 bg-success">
      <table>
   
 <tr>
@@ -76,7 +76,7 @@
 </tr>
 </table>
     </div>
-   <div class="col-sm-4">
+   <div class="col-sm-4 bg-warning">
      <table>
   
 <tr>
