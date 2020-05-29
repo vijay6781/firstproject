@@ -3,12 +3,12 @@
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 </head>
 <body>
-  <div class="jumbotron text-center bg-yellow" style="margin-bottom:0">
+  <div class="jumbotron text-center bg-yellow" style="margin-bottom:110">
   <h1>Jaldiresult.com</h1>
   <p>fast update</p> 
 </div>
   
-<div class="container mt-25">
+<div class="container">
   <div class="row">
     <div class="col-sm-4">
      <table>
