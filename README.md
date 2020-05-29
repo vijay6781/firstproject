@@ -1,7 +1,7 @@
 <!doctype html>
 <htm>
 <head>
-<title>About Me</title>
+<title>About</title>
 
 <link rel="stylesheet" type="text/css" href="link.css"> 
 </head>
