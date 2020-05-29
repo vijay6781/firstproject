@@ -2,84 +2,7 @@
 <title>discovery help</title>
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 </head>
-<style type="text/css">
-  
-.container1 {
-    height: 100px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-   color:#fff;
-   background:rgb(255, 255, 77);
-   font-size:30px;
-text-right:44px;
-padding:8px;
-}
-.tss{
-padding-left:10px;
-}
-  
-.containerv {
-    height: 100px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-   color:#fff;
-   background:rgba(255, 26, 90,0.9);
-   font-size:30px;
-text-right:44px;
-padding:8px;
-}
 
-.item {
-    width: em;
-}
-      
-
-table{
-     align:center;
-   teble-align:center;
-   text-align:center;
-   margin:1.99rem;
-}
-
-body{
-  border: 2px solid rgba(200,20,19,0.5);
-  background:rgb(255,255,255);
-        
-
-}
-
-td,
-th {
-    border: 5px solid rgb(190, 255, 190);
-    padding: 20px;
-    margin-right: 150px;
-   }
-  th[scope="col"] {
-  background-color:rgba(2,220,2,.8);
-   color:#fff;
-   margin-right: 1500px;
-}
- th[scope="row"] {
-    text-align: center;
-    border-align:center;
-    margin: auto;
-  border-right:65px;
-  border-left: 73px;
-  width: 250px;
-  color: rgb(230,59,99);
-  border: 2px solid yellow;
-  height: 60px;
-  background:rgba(100,255,110,.9);
-  padding: 20px;
-  
-}
-.cont{
-border:2px solid blue;
-}
-
-</style>
 <body>
   <div class="jumbotron text-center bg-yellow" style="margin-bottom:110">
   <h1>Jaldiresult.com</h1>
@@ -92,8 +15,8 @@ border:2px solid blue;
      <table>
   
 <tr>
-  <th scope="col" class="bg-success"> RESULT</th>
-        <th scope="col" class="bg-success"> Link</th>
+  <th scope="col" class="bg-green"> RESULT</th>
+        <th scope="col" class="bg-green"> Link</th>
       
 </tr>
 
@@ -128,8 +51,8 @@ border:2px solid blue;
      <table>
   
 <tr>
-  <th scope="col" class="bg-success"> RESULT</th>
-        <th scope="col" class="bg-success"> Link</th>
+  <th scope="col" class="bg-green""bg-green"> RESULT</th>
+        <th scope="col" class="bg-green"> Link</th>
       
 </tr>
 
