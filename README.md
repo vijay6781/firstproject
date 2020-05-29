@@ -52,7 +52,7 @@
   
 <tr>
   <th scope="col" class="bg-success"> RESULT</th>
-        <th scope="col" class="bg-rgb(2,255,7)"> Link</th>
+        <th scope="col" class="bg-green"> Link</th>
       
 </tr>
 
