@@ -51,8 +51,8 @@
      <table>
   
 <tr>
-  <th scope="col" class="bg-rgba(2,220,2,.8)"> RESULT</th>
-        <th scope="col" class="bg-rgba(2,220,2,.8)"> Link</th>
+  <th scope="col" class="bg-success"> RESULT</th>
+        <th scope="col" class="bg-green"> Link</th>
       
 </tr>
 
