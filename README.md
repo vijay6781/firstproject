@@ -8,7 +8,7 @@
   <h1>Jaldiresult.com</h1>
   <p>fast update</p> 
 </div>
-  <div class="jumbotron text-center>
+  <div class="jumbotron text-center">
 <div class="container text-center">
   <div class="row">
     <div class="col-sm-4 pl-3">
