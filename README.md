@@ -23,7 +23,7 @@ footer {
 
 <body>
 
-<div class="container-fluid table-hover">
+<div class="container-fluid table-hover  table-striped">
   <div class="row text-center">
     <div class="col-sm-4 pr-5 mt-4">
 <!.....latest job>	    
