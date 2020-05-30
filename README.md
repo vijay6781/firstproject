@@ -35,7 +35,7 @@ footer {
 </tr>
 
 <tr>
- <td> <a href="https://github.com/<username>/<repo name>/blob/master/<file path to file"> CBSE 10th Result</a></td>
+ <td> <a href="https://vijay6781.github.io/Lifelong/"> CBSE 10th Result</a></td>
  
   
 </tr>
