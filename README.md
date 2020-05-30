@@ -95,10 +95,10 @@ footer {
 
  
 </tr>
-</table class="mr-5">
+</table >
     </div>
    <div class="col-sm-4 pr-3 mt-4">
-     <table>
+     <table class="mr-5">
   
 <tr>
   <th scope="col" style="background:#55ff00"> RESULT</th>
@@ -129,7 +129,7 @@ footer {
  <td>  CBSE 12th Result</td>
 
 </tr>
-</table class="mr-5">
+</table >
     </div>
   </div>
 </div>
