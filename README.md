@@ -4,7 +4,7 @@
 </head>
 
 <body>
-  <div class="jumbotron text-center" style="margin-bottom:110;background:#ff4d94">
+  <div class="jumbotron text-center" style="margin-bottom:110;background:#66ffff">
   <h1>Jaldiresult.com</h1>
   <p>fast update</p> 
 </div>
