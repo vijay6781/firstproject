@@ -15,7 +15,6 @@
   <div class="row">
     <div class="col-sm-4 pl-3">
      <table>
-  
 <tr>
   <th scope="col" style="background:#55ff00">Latest Job</th>     
 </tr>
@@ -38,8 +37,9 @@
 </tr>
 </table>
     </div>
-    <div class="col-sm-4 pl-3">
-     <table>
+    
+  <div class="col-sm-4 pl-3">
+   <table>
   
 <tr>
   <th scope="col" style="background:#55ff00">Tech Job</th>
@@ -90,14 +90,12 @@
 
 <tr>
   <td><a href="http://biharboardonline.bihar.gov.in/"> Bihar Board 10th Result</a></td>
-  
  
 </tr>
 <tr>
 
  <td><a href="http://biharboardonline.bihar.gov.in/"> Bihar Board 10th Result</a></td>
   
- 
 </tr>
 </table>
     </div>
