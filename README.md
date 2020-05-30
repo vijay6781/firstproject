@@ -22,12 +22,7 @@ footer {
 }</style>
 
 <body>
-<div class="container">	
- <button class="btn btn-danger" >
-    <span class="spinner-grow spinner-grow-sm btn-danger  text-center"></span>
-    LIVE
-  </button>
-</div>
+
 <div class="container-fluid table-hover  table-striped">
   <div class="row text-center">
     <div class="col-sm-4 pr-5 mt-4">	    
@@ -137,6 +132,12 @@ footer {
 </table >
     </div>
   </div>
+</div>
+<div class="container">	
+ <button class="btn btn-danger" >
+    <span class="spinner-grow spinner-grow-sm btn-danger  text-center"></span>
+    LIVE
+  </button>
 </div>
 
   <script src="https://code.jquery.com/jquery-3.5.1.js"></script>  
