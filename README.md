@@ -18,33 +18,33 @@
   
 <tr>
   <th scope="col" style="background:#55ff00">Latest Job</th>
-        <th scope="col"  style="background:#55ff00"> Link</th>
+       
       
 </tr>
 
 <tr>
- <td> Bihar Board 10th Result </td>
- <td><a href="http://biharboardonline.bihar.gov.in/">click here</a></td>
+ 
+ <td><a href="http://biharboardonline.bihar.gov.in/">Bihar Board 10th Result </a></td>
   
 </tr>
 
 <tr>
   
- <td> Bihar Board 12th Result </td>
- <td><a href="http://onlinebseb.in/">click here</a></td>
+ 
+ <td><a href="http://onlinebseb.in/">Bihar Board 12th Result</a></td>
  
 </tr>
 
 <tr>
   
- <td>  CBSE 10th Result</td>
- <td><a href="http://cbseresults.nic.in/class10/class10th19.htm">click here</a></td>
+ 
+ <td><a href="http://cbseresults.nic.in/class10/class10th19.htm"> CBSE 10th Result</a></td>
  
 </tr>
 <tr>
 
- <td>  CBSE 12th Result</td>
- <td><a href="http://cbseresults.nic.in/class12/class12th19.htm">click here</a></td>
+
+ <td><a href="http://cbseresults.nic.in/class12/class12th19.htm"> CBSE 12th Result</a></td>
  
 </tr>
 </table>
@@ -55,33 +55,28 @@
 <tr>
   <th scope="col" style="background:#55ff00">Tech Job</th>
         <th scope="col"  style="background:#55ff00">Link</th>
-      
-</tr>
-
 <tr>
- <td> Bihar Board 10th Result </td>
- <td><a href="http://biharboardonline.bihar.gov.in/">click here</a></td>
+ 
+ <td><a href="http://biharboardonline.bihar.gov.in/"> Bihar Board 10th Result</a></td>
   
 </tr>
 
 <tr>
   
- <td> Bihar Board 12th Result </td>
- <td><a href="http://onlinebseb.in/">click here</a></td>
- 
+<td><a href="http://biharboardonline.bihar.gov.in/"> Bihar Board 10th Result</a></td>
+  
 </tr>
 
 <tr>
   
- <td>  CBSE 10th Result</td>
- <td><a href="http://cbseresults.nic.in/class10/class10th19.htm">click here</a></td>
+ <td><a href="http://biharboardonline.bihar.gov.in/"> Bihar Board 10th Result</a></td>
+  
  
 </tr>
 <tr>
 
- <td>  CBSE 12th Result</td>
- <td><a href="http://cbseresults.nic.in/class12/class12th19.htm">click here</a></td>
- 
+ <td><a href="http://biharboardonline.bihar.gov.in/"> Bihar Board 10th Result</a></td>
+  
 </tr>
 </table>
     </div>
@@ -95,28 +90,26 @@
 </tr>
 
 <tr>
- <td> Bihar Board 10th Result </td>
- <td><a href="http://biharboardonline.bihar.gov.in/">click here</a></td>
+<td><a href="http://biharboardonline.bihar.gov.in/"> Bihar Board 10th Result</a></td>
   
 </tr>
 
 <tr>
   
- <td> Bihar Board 12th Result </td>
- <td><a href="http://onlinebseb.in/">click here</a></td>
+ <td><a href="http://biharboardonline.bihar.gov.in/"> Bihar Board 10th Result</a></td>
+  
  
 </tr>
 
 <tr>
+  <td><a href="http://biharboardonline.bihar.gov.in/"> Bihar Board 10th Result</a></td>
   
- <td>  CBSE 10th Result</td>
- <td><a href="http://cbseresults.nic.in/class10/class10th19.htm">click here</a></td>
  
 </tr>
 <tr>
 
- <td>  CBSE 12th Result</td>
- <td><a href="http://cbseresults.nic.in/class12/class12th19.htm">click here</a></td>
+ <td><a href="http://biharboardonline.bihar.gov.in/"> Bihar Board 10th Result</a></td>
+  
  
 </tr>
 </table>
