@@ -15,7 +15,7 @@
      <table>
   
 <tr>
-  <th scope="col" class="bg-green"> RESULT</th>
+  <th scope="col" class="bg-#55ff00"> RESULT</th>
         <th scope="col" class="bg-green"> Link</th>
       
 </tr>
