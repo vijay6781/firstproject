@@ -25,7 +25,7 @@ footer {
 
 <div class="container-fluid">
   <div class="row text-center">
-    <div class="col-sm-4 pl-6">
+    <div class="col-sm-4 pl-6 ">
      <table>
   
 <tr>
@@ -97,7 +97,7 @@ footer {
 </tr>
 </table>
     </div>
-   <div class="col-sm-4 pl-6 ">
+   <div class="col-sm-4 pl-6 mt-5 ">
      <table>
   
 <tr>
