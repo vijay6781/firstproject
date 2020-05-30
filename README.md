@@ -45,7 +45,7 @@
 <tr>
   
  <td>  CBSE 10th Result</td>
- <td><a href="http://cbseresults.nic.in/class10/class10th19.htm">click here</a></td>
+ 
  
 </tr>
 <tr>
