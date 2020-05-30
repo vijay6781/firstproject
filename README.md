@@ -16,7 +16,7 @@
   
 <tr>
   <th scope="col" style="background:#55ff00"> RESULT</th>
-        <th scope="col" class="bg-green"> Link</th>
+        <th scope="col"  style="background:#55ff00"> Link</th>
       
 </tr>
 
@@ -51,8 +51,8 @@
      <table>
   
 <tr>
-  <th scope="col" class="bg-success"> RESULT</th>
-        <th scope="col" class="bg-green"> Link</th>
+  <th scope="col" style="background:#55ff00"> RESULT</th>
+        <th scope="col"  style="background:#55ff00"> Link</th>
       
 </tr>
 
@@ -87,8 +87,8 @@
      <table>
   
 <tr>
-  <th scope="col" class="bg-success"> RESULT</th>
-        <th scope="col" class="bg-success"> Link</th>
+  <th scope="col" style="background:#55ff00"> RESULT</th>
+        <th scope="col" style="background:#55ff00"> Link</th>
       
 </tr>
 
