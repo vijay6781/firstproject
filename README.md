@@ -11,7 +11,7 @@
   
 <div class="container text-center">
   <div class="row">
-    <div class="col-sm-4">
+    <div class="col-sm-4 pl-3">
      <table>
   
 <tr>
@@ -47,7 +47,7 @@
 </tr>
 </table>
     </div>
-    <div class="col-sm-4">
+    <div class="col-sm-4 pl-3">
      <table>
   
 <tr>
@@ -83,7 +83,7 @@
 </tr>
 </table>
     </div>
-   <div class="col-sm-4 ">
+   <div class="col-sm-4 pl-3 ">
      <table>
   
 <tr>
