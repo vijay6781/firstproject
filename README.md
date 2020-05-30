@@ -23,8 +23,8 @@ footer {
 
 <body>
 <div class="container">	
- <button class="btn btn-danger text-center" >
-    <span class="spinner-grow spinner-grow-sm btn-danger"></span>
+ <button class="btn btn-danger" >
+    <span class="spinner-grow spinner-grow-sm btn-danger  text-center"></span>
     LIVE
   </button>
 </div>
