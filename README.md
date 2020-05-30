@@ -43,7 +43,7 @@
   
 <tr>
   <th scope="col" style="background:#55ff00">Tech Job</th>
-        <th scope="col"  style="background:#55ff00">Link</th>
+       
 <tr>
  
  <td><a href="http://biharboardonline.bihar.gov.in/"> Bihar Board 10th Result</a></td>
@@ -73,7 +73,7 @@
   
 <tr>
   <th scope="col" style="background:#55ff00"> RESULT</th>
-        <th scope="col" style="background:#55ff00"> Link</th>
+      
       
 </tr>
 
