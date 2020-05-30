@@ -35,7 +35,7 @@ footer {
 </tr>
 
 <tr>
- <td> Bihar Board 10th Result </td>
+ <td> <a href="http://cbseresults.nic.in/class10/class10th19.htm"> CBSE 10th Result</a></td>
  
   
 </tr>
