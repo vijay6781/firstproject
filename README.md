@@ -26,7 +26,7 @@ footer {
 <div class="container-fluid">
   <div class="row text-center">
     <div class="col-sm-4 pr-5 mt-4">
-     <table>
+     <table class="ml-5">
   
 <tr>
   <th scope="col" style="background:#55ff00">Latest Job</th>
@@ -95,7 +95,7 @@ footer {
 
  
 </tr>
-</table>
+</table class="mr-5">
     </div>
    <div class="col-sm-4 pr-3 mt-4">
      <table>
@@ -129,7 +129,7 @@ footer {
  <td>  CBSE 12th Result</td>
 
 </tr>
-</table>
+</table class="mr-5">
     </div>
   </div>
 </div>
