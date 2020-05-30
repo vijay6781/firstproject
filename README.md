@@ -15,7 +15,7 @@
      <table>
   
 <tr>
-  <th scope="col" style="background:#55ff00"> RESULT</th>
+  <th scope="col" style="background:#55ff00">Latest Job</th>
         <th scope="col"  style="background:#55ff00"> Link</th>
       
 </tr>
@@ -51,8 +51,8 @@
      <table>
   
 <tr>
-  <th scope="col" style="background:#55ff00"> RESULT</th>
-        <th scope="col"  style="background:#55ff00"> Link</th>
+  <th scope="col" style="background:#55ff00">Tech Job</th>
+        <th scope="col"  style="background:#55ff00">Link</th>
       
 </tr>
 
