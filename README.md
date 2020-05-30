@@ -22,10 +22,12 @@ footer {
 }</style>
 
 <body>
+<div class="container">	
  <button class="btn btn-danger text-center" >
     <span class="spinner-grow spinner-grow-sm btn-danger"></span>
     LIVE
   </button>
+</div>
 <div class="container-fluid table-hover  table-striped">
   <div class="row text-center">
     <div class="col-sm-4 pr-5 mt-4">
