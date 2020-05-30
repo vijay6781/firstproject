@@ -10,7 +10,16 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
 </head>
+<style type="text/css">
+		@import "{{ site.theme }}";
 
+footer {
+  display: none !important;
+}
+
+.btn {
+  display: none !important;
+}</style>
 
 <body>
   <div class="jumbotron text-center" style="margin-bottom:110;background:#66ffff">
