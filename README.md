@@ -26,7 +26,8 @@ footer {
 <div class="container-fluid">
   <div class="row text-center">
     <div class="col-sm-4 pr-5 mt-4">
-     <table class="ml-5">
+<!.....latest job>	    
+  <table class="ml-5">
   
 <tr>
   <th scope="col" style="background:#55ff00">Latest Job</th>
