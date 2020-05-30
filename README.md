@@ -22,7 +22,7 @@ footer {
 }</style>
 
 <body>
- <div class="jumbotron">
+
 <div class="container-fluid">
   <div class="row">
     <div class="col-sm-4 pl-3">
@@ -133,7 +133,6 @@ footer {
     </div>
   </div>
 </div>
-</div>	
 
   <script src="https://code.jquery.com/jquery-3.5.1.js"></script>  
    
