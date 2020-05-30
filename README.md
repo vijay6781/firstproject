@@ -8,7 +8,7 @@
   <h1>Jaldiresult.com</h1>
   <p>fast update</p> 
 </div>
-  
+  <div class="jumbotron text-center>
 <div class="container text-center">
   <div class="row">
     <div class="col-sm-4 pl-3">
@@ -120,6 +120,7 @@
 </table>
     </div>
   </div>
+</div>
 </div>
 <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
