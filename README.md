@@ -22,11 +22,7 @@ footer {
 }</style>
 
 <body>
-  <div class="jumbotron text-center" style="margin-bottom:110;background:#66ffff">
-  <h1>Jaldiresult.com</h1>
-  <p>fast update</p> 
-</div>
-
+ <div class="jumbotron">
 <div class="container text-center">
   <div class="row">
     <div class="col-sm-4 pl-3">
@@ -137,7 +133,7 @@ footer {
     </div>
   </div>
 </div>
-	
+</div>	
 
 </body>
 </html>
