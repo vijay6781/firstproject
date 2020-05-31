@@ -240,7 +240,7 @@ footer {
     </div>
   </div>
 </div>
-<div class="text-center my-auto">
+<div class="text-center mt-3">
 <h5><a href="https://vijay6781.github.io/Lifelong/"><span style="text-align:center">Student Book Help</span></a></h5>
 </div>
   <script src="https://code.jquery.com/jquery-3.5.1.js"></script>  
