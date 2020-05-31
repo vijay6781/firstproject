@@ -23,24 +23,23 @@ footer {
 
 <body>
  <div class="container">
-                                        
-  <div class="spinner-grow text-white"></div>
+     <div class="jumbotron bg-white">                                    
+  <div class="spinner-grow text-light"></div>
+ <div class="spinner-grow text-white"></div>
+ <div class="spinner-grow text-light"></div>
+ <div class="spinner-grow text-white"></div>
+<div class="spinner-grow text-white"></div>
+ <div class="spinner-grow text-white"></div>
  <div class="spinner-grow text-white"></div>
  <div class="spinner-grow text-white"></div>
  <div class="spinner-grow text-white"></div>
 <div class="spinner-grow text-white"></div>
  <div class="spinner-grow text-white"></div>
- <div class="spinner-grow text-white"></div>
- <div class="spinner-grow text-white"></div>
- <div class="spinner-grow text-white"></div>
-<div class="spinner-grow text-white"></div>
- <div class="spinner-grow text-white"></div>
   <div class="spinner-grow text-white"></div>
-  <div class="spinner-grow text-white"><span style="color:red;text-align:center">Live</span></div>
-  <div class="spinner-grow text-danger margin-bottom:10px"></div>
-  
+  <div class="spinner-grow text-danger margin-bottom:1px"></div>
+   <div class="spinner-grow text-white"><span style="color:red;text-align:center">Live</span></div>
 </div>
-
+</div>
 <div class="container-fluid table-hover  table-striped">
   <div class="row text-center">
     <div class="col-sm-4 pr-5 mt-4">	    
