@@ -22,6 +22,19 @@ footer {
 }</style>
 
 <body>
+ <div class="container">
+                                      
+  <div class="spinner-border text-muted">J</div>
+  <div class="spinner-border text-primary">A</div>
+  <div class="spinner-border text-success">D</div>
+  <div class="spinner-border text-info">I</div>
+  <div class="spinner-border text-warning">R</div>
+  <div class="spinner-border text-danger">E</div>
+  <div class="spinner-border text-secondary">S</div>
+  <div class="spinner-border text-dark">U</div>
+  <div class="spinner-border text-light">L</div>
+  <div class="spinner-border text-secondary">T</div>
+</div>	
 
 <div class="container-fluid table-hover  table-striped">
   <div class="row text-center">
