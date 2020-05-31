@@ -146,7 +146,7 @@ footer {
 </tr>
 
 <tr>
- <td> <a href="index1.html">Bihar 10th Result</a></td></td>
+ <td><a href="index1.html">Bihar 10th Result</a></td>
  
   
 </tr>
