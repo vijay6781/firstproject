@@ -70,7 +70,7 @@ footer {
      <table class="ml-5">
   
 <tr>
-  <th scope="col" style="background:#55ff00">Bihar Job</th>
+  <th scope="col" style="background:#55ff00">Bihar/up Job</th>
        
       
 </tr>
