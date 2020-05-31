@@ -19,7 +19,12 @@ footer {
 
 .btn {
   display: none !important;
-}</style>
+}
+.carousel-inner img {
+    width: 100%;
+    height: 40%;
+  }
+</style>
 
 <body>
 	 <div class="jumbotron  ml-5 mr-5 mt-4 mb-4" >
