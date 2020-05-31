@@ -23,7 +23,7 @@ footer {
 
 <body>
   <div class="container text-center">                             
-  <div class="spinner-grow text-danger pt-0 mt-2"></div>
+  <div class="spinner-grow text-danger pt-0 mt-1"></div>
    <div class="spinner-grow text-white"><span style="color:red;text-align:center">Live</span></div>
 </div>
 
