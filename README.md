@@ -22,11 +22,11 @@ footer {
 }</style>
 
 <body>
- <div class="container">
-     <div class="jumbotron bg-white">                                    
-  <div class="spinner-grow text-light"></div>
+ <div class="jumbotron bg-white">     
+	 <div class="container">                             
+  <div class="spinner-grow text-white"></div>
  <div class="spinner-grow text-white"></div>
- <div class="spinner-grow text-light"></div>
+ <div class="spinner-grow text-white"></div>
  <div class="spinner-grow text-white"></div>
 <div class="spinner-grow text-white"></div>
  <div class="spinner-grow text-white"></div>
