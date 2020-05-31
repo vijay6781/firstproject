@@ -21,7 +21,7 @@ footer {
   display: none !important;
 }
 .carousel-inner img {
-    width: 80%;
+    width: 30%;
     height: 30%;
   }
 </style>
