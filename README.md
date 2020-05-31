@@ -29,7 +29,7 @@ footer {
 
 <div class="container-fluid table-hover  table-striped">
   <div class="row text-center">
-    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-4 mt-4">	    
+    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-4 mt-6">	    
   <table class="ml-5">
   
 <tr>
