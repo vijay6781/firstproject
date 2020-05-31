@@ -65,7 +65,7 @@ footer {
 </table>
     </div>
     <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-3 mt-4">
-     <table class="ml-4">
+     <table class="ml-5">
   
 <tr>
   <th scope="col" style="background:#55ff00">Tech Job</th>
@@ -101,7 +101,7 @@ footer {
 </table >
     </div>
    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-3 mt-4">
-     <table class="ml-4">
+     <table class="ml-5">
   
 <tr>
   <th scope="col" style="background:#55ff00"> RESULT</th>
