@@ -240,12 +240,7 @@ footer {
     </div>
   </div>
 </div>
-<div class="container">	
- <button class="btn btn-danger" >
-    <span class="spinner-grow spinner-grow-sm btn-danger  text-center"></span>
-    LIVE
-  </button>
-</div>
+<h5><a href="https://vijay6781.github.io/Lifelong/">Student Book Help</a></h5>
 
   <script src="https://code.jquery.com/jquery-3.5.1.js"></script>  
    
