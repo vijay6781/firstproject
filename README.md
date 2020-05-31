@@ -29,7 +29,7 @@ footer {
 
 <div class="container-fluid table-hover  table-striped">
   <div class="row text-center">
-    <div class="col-sm-6 col-xs-6 col-md-6 col-lg-4 pr-5 mt-4">	    
+    <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 pr-5 mt-4">	    
   <table class="ml-5">
   
 <tr>
@@ -65,7 +65,7 @@ footer {
 </tr>
 </table>
     </div>
-    <div class="col-sm-6 col-xs-6 col-md-6 col-lg-4  pr-3 mt-4">
+    <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6 pr-3 mt-4">
      <table class="ml-5">
   
 <tr>
@@ -101,7 +101,7 @@ footer {
 </tr>
 </table >
     </div>
-   <div class="col-sm-6 col-xs-6 col-md-6 col-lg-4  pr-3 mt-4">
+   <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6  pr-3 mt-4">
      <table class="ml-5">
   
 <tr>
