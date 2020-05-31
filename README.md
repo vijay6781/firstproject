@@ -27,7 +27,7 @@ footer {
 </style>
 
 <body>
-	 <div class="jumbotron  ml-5 mr-5 mt-4 mb-4" >
+	 <div class="container ml-5 mr-5 mt-4 mb-4" >
 <div id="demo" class="carousel slide" data-ride="carousel">
   <ul class="carousel-indicators">
     <li data-target="#demo" data-slide-to="0" class="active"></li>
