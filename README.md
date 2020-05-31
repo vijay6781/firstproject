@@ -24,19 +24,20 @@ footer {
 <body>
  <div class="container">
                                         
-  <div class="spinner-grow text-light"></div>
-  <div class="spinner-grow text-light"></div>
-  <div class="spinner-grow text-light"></div>
- <div class="spinner-grow text-light"></div>
-  <div class="spinner-grow text-light"></div>
-  <div class="spinner-grow text-light"></div>
-  <div class="spinner-grow text-light"></div>
- <div class="spinner-grow text-light"></div>
- <div class="spinner-grow text-light"></div>
- <div class="spinner-grow text-light"></div>
- <div class="spinner-grow text-light"></div>
-  <div class="spinner-grow text-danger margin-bottom:10px"><span style="color: black;text-align:center">Live</span></div>
-  
+  <div class="spinner-grow text-white"></div>
+ <div class="spinner-grow text-white"></div>
+ <div class="spinner-grow text-white"></div>
+ <div class="spinner-grow text-white"></div>
+<div class="spinner-grow text-white"></div>
+ <div class="spinner-grow text-white"></div>
+ <div class="spinner-grow text-white"></div>
+ <div class="spinner-grow text-white"></div>
+ <div class="spinner-grow text-white"></div>
+<div class="spinner-grow text-white"></div>
+ <div class="spinner-grow text-white"></div>
+  <div class="spinner-grow text-white"></div>
+  <div class="spinner-grow text-danger margin-bottom:10px"></div>
+  <div class="spinner-grow text-white"><span style="color:red;text-align:center">Live</span></div>
 </div>
 
 <div class="container-fluid table-hover  table-striped">
