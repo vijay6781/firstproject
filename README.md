@@ -35,8 +35,7 @@ footer {
  <div class="spinner-grow text-light"></div>
  <div class="spinner-grow text-light"></div>
  <div class="spinner-grow text-light"></div>
- <div class="spinner-grow text-light"></div>
-  <div class="spinner-grow text-danger margin-bottom:10px"><span style="color: black;text-align:center">LIVE</span></div>
+  <div class="spinner-grow text-danger margin-bottom:10px"><span style="color: black;text-align:center">Live</span></div>
   
 </div>
 
