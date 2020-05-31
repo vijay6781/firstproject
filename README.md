@@ -243,6 +243,7 @@ footer {
 <div class="text-center mt-3">
 <h5><a href="https://vijay6781.github.io/Lifelong/"><span style="text-align:center">Student Book Help</span></a></h5>
 </div>
+<h3><span style="text-align:center; color:green">website will be update</span></h3>
   <script src="https://code.jquery.com/jquery-3.5.1.js"></script>  
    
  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
