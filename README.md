@@ -20,10 +20,6 @@ footer {
 .btn {
   display: none !important;
 }
-.carousel-inner img {
-    width: 30%;
-    height: 30%;
-  }
 </style>
 
 <body>
@@ -74,7 +70,7 @@ footer {
      <table class="ml-5">
   
 <tr>
-  <th scope="col" style="background:#55ff00">Tech Job</th>
+  <th scope="col" style="background:#55ff00">Bihar Job</th>
        
       
 </tr>
@@ -110,7 +106,112 @@ footer {
      <table class="ml-5">
   
 <tr>
-  <th scope="col" style="background:#55ff00"> RESULT</th>
+  <th scope="col" style="background:#55ff00">Tech job</th>
+        
+      
+</tr>
+
+<tr>
+ <td> Bihar Board 10th Result </td>
+ 
+  
+</tr>
+
+<tr>
+  
+ <td> Bihar Board 12th Result </td>
+
+</tr>
+
+<tr>
+  
+ <td>  CBSE 10th Result</td>
+ 
+ 
+</tr>
+<tr>
+
+ <td>  CBSE 12th Result</td>
+
+</tr>
+</table >
+    </div>
+     </div>
+   <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-3 mt-4">
+     <table class="ml-5">
+  
+<tr>
+  <th scope="col" style="background:#55ff00">Result</th>
+        
+      
+</tr>
+
+<tr>
+ <td> Bihar Board 10th Result </td>
+ 
+  
+</tr>
+
+<tr>
+  
+ <td> Bihar Board 12th Result </td>
+
+</tr>
+
+<tr>
+  
+ <td>  CBSE 10th Result</td>
+ 
+ 
+</tr>
+<tr>
+
+ <td>  CBSE 12th Result</td>
+
+</tr>
+</table >
+    </div>
+     </div>
+   <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-3 mt-4">
+     <table class="ml-5">
+  
+<tr>
+  <th scope="col" style="background:#55ff00">Admit Card </th>
+        
+      
+</tr>
+
+<tr>
+ <td> Bihar Board 10th Result </td>
+ 
+  
+</tr>
+
+<tr>
+  
+ <td> Bihar Board 12th Result </td>
+
+</tr>
+
+<tr>
+  
+ <td>  CBSE 10th Result</td>
+ 
+ 
+</tr>
+<tr>
+
+ <td>  CBSE 12th Result</td>
+
+</tr>
+</table >
+    </div>
+     </div>
+   <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-3 mt-4">
+     <table class="ml-5">
+  
+<tr>
+  <th scope="col" style="background:#55ff00">college/university form</th>
         
       
 </tr>
