@@ -40,7 +40,7 @@ footer {
 </tr>
 
 <tr>
- <td> <a href="bpscmotor20.html">BPSC Motor Vehicle Inspector<br> MVI Recruitment Online Form 2020</a></td>
+ <td> <a href="bpscmotor20.html">BPSC Motor Vehicle Inspector MVI Recruitment Online Form 2020 <span syyle="color:red">Extended</span></a></td>
  
   
 </tr>
@@ -76,7 +76,7 @@ footer {
 </tr>
 
 <tr>
- <td> <a href="bpscmotor20.html">BPSC Motor Vehicle Inspector<br> MVI Recruitment Online Form 2020</a></td>
+ <td> <a href="bpscmotor20.html">BPSC Motor Vehicle Inspector MVI Recruitment Online Form 2020 <span syyle="color:red">Extended</span></a></td>
 
   
 </tr>
