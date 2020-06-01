@@ -76,7 +76,7 @@ footer {
 </tr>
 
 <tr>
- <td> Bihar Board 10th Result </td>
+ <td> <a href="bpscmotor20.html">BPSC Motor Vehicle Inspector<br> MVI Recruitment Online Form 2020</a></td>
 
   
 </tr>
