@@ -21,7 +21,7 @@ footer {
   display: none !important;
 }
 .tbody {
-  min-height:10px;
+  height:10px;
   overflow-y:scroll;
 }
 </style>
