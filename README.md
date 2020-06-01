@@ -34,7 +34,7 @@ footer {
     <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-4 mt-4">	    
   <table >
 <tr>
-  <th scope="col" style="background:#55ff00">Latest Govt Job</th>
+  <th scope="col" style="background:#55ff00">Latest Job</th>
       
       
 </tr>
@@ -47,14 +47,14 @@ footer {
 
 <tr>
   
- <td> <a href="drdo2020.html">DRDO Scientist B<br> Recruitment 2020<br> Online Form</a> </td>
+ <td> <a href="drdo2020.html">DRDO Scientist B Recruitment 2020 Online Form</a> </td>
 
  
 </tr>
 
 <tr>
   
- <td>  CBSE 10th Result</td>
+ <td><a href="bcece20.html">BCECE City Manager Recruitment Online Form 2020</a></td>
  
  
 </tr>
