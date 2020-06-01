@@ -32,7 +32,7 @@ footer {
 <div class="container-fluid table-hover  table-striped">
   <div class="row text-center">
     <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-4 mt-4">	    
-  <table class="ml-5">
+  <table >
 <tr>
   <th scope="col" style="background:#55ff00">Latest Govt Job</th>
       
@@ -67,7 +67,7 @@ footer {
 </table>
     </div>
     <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-3 mt-4">
-     <table class="ml-5">
+     <table >
   
 <tr>
   <th scope="col" style="background:#55ff00">Bihar/up Job</th>
@@ -103,7 +103,7 @@ footer {
 </table >
     </div>
    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-3 mt-4">
-     <table class="ml-5">
+     <table >
   
 <tr>
   <th scope="col" style="background:#55ff00">Tech job</th>
@@ -137,7 +137,7 @@ footer {
 </table >
     </div>
    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-3 mt-4">
-     <table class="ml-5">
+     <table >
   
 <tr>
   <th scope="col" style="background:#55ff00">Result</th>
@@ -171,7 +171,7 @@ footer {
 </table >
     </div>
    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-3 mt-4">
-     <table class="ml-5">
+     <table >
   
 <tr>
   <th scope="col" style="background:#55ff00">Admit Card </th>
@@ -205,7 +205,7 @@ footer {
 </table >
     </div>
    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-3 mt-4">
-     <table class="ml-5">
+     <table >
   
 <tr>
   <th scope="col" style="background:#55ff00">college/university form</th>
