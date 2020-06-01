@@ -96,7 +96,7 @@ footer {
 
 <tr>
   
- <td>  CBSE 10th Result</td>
+ <td><a href="Biharscrutiny20.html">Bihar Board Scrutiny / RTI Form 2020</td>
 
  
 </tr>
