@@ -21,8 +21,8 @@ footer {
   display: none !important;
 }
 .tbody {
-  min-height:20px;
-  overflow-y:scroll;
+  min-height:200px;
+  overflow:scroll;
 }
 </style>
 
@@ -36,7 +36,7 @@ footer {
 <div class="container-fluid table-hover  table-striped">
   <div class="row text-center mx-auto">
     <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-4 mt-4">	    
-  <table>
+  <table class="table table-bordered">
 <tr>
   <th scope="col" style="background:#55ff00">Latest Job</th>
       
@@ -97,7 +97,7 @@ footer {
 </table>
     </div>
     <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-3 mt-4">
-     <table >
+     <table class="table table-bordered" >
   
 <tr>
   <th scope="col" style="background:#55ff00">Bihar/up Job</th>
@@ -134,7 +134,7 @@ footer {
 </table >
     </div>
    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-3 mt-4">
-     <table >
+     <table class="table table-bordered">
   
 <tr>
   <th scope="col" style="background:#55ff00">Tech job</th>
@@ -169,7 +169,7 @@ footer {
 </table >
     </div>
    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-3 mt-4">
-     <table >
+     <table class="table table-bordered" >
   
 <tr>
   <th scope="col" style="background:#55ff00">Result</th>
@@ -204,7 +204,7 @@ footer {
 </table >
     </div>
    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-3 mt-4">
-     <table >
+     <table class="table table-bordered">
   
 <tr>
   <th scope="col" style="background:#55ff00">Admit Card </th>
@@ -239,7 +239,7 @@ footer {
 </table >
     </div>
    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-3 mt-4">
-     <table >
+     <table class="table table-bordered">
   
 <tr>
   <th scope="col" style="background:#55ff00">college/university form</th>
