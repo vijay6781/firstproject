@@ -20,6 +20,10 @@ footer {
 .btn {
   display: none !important;
 }
+.tbody {
+  min-height:10px;
+  overflow-y:scroll;
+}
 </style>
 
 <body>
