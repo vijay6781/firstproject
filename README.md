@@ -54,7 +54,7 @@ footer {
 
 <tr>
   
- <td><a href="bcece20.html">BCECE City Manager Recruitment Online Form 2020</a></td>
+ <td><a href="bcece20.html">BCECE City Manager Recruitment Online Form 2020</a><span style="color:red">Extended</span></td>
  
  
 </tr>
@@ -83,7 +83,7 @@ footer {
 
 <tr>
   
- <td> Bihar Board 12th Result </td>
+ <td><a href="bcece20.html">BCECE City Manager Recruitment Online Form 2020</a><span style="color:red">Extended</span></td>
  
  
 </tr>
