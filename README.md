@@ -76,19 +76,13 @@ footer {
      <table >
   
 <tr>
-  <th scope="col" style="background:#55ff00">Bihar/up Job</th>
-       
-      
+  <th scope="col" style="background:#55ff00">Bihar/up Job</th>     
 </tr>
 <tbody class="tbody" >
 <tr>
- <td> <a href="bpscmotor20.html">BPSC Motor Vehicle Inspector MVI Recruitment Online Form 2020 </a><span style="color:red">Extended</span></td>
-
-  
+ <td> <a href="bpscmotor20.html">BPSC Motor Vehicle Inspector MVI Recruitment Online Form 2020 </a><span style="color:red">Extended</span></td> 
 </tr>
-
 <tr>
-  
  <td><a href="bcece20.html">BCECE City Manager Recruitment Online Form 2020</a><span style="color:red">Extended</span></td>
  
  
@@ -96,7 +90,7 @@ footer {
 
 <tr>
   
- <td><a href="Biharscrutiny20.html">Bihar Board Scrutiny / RTI Form 2020</td>
+ <td><a href="Biharscrutiny20.html">Bihar Board Scrutiny / RTI Form 2020</a></td>
 
  
 </tr>
