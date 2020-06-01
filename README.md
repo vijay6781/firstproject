@@ -21,7 +21,7 @@ footer {
   display: none !important;
 }
 .tbody {
-  min-height:100px;
+  min-height:20px;
   overflow-y:scroll;
 }
 </style>
@@ -36,13 +36,13 @@ footer {
 <div class="container-fluid table-hover  table-striped">
   <div class="row text-center mx-auto">
     <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-4 mt-4">	    
-  <table >
+  <table>
 <tr>
   <th scope="col" style="background:#55ff00">Latest Job</th>
       
       
 </tr>
-<tbody>
+<tbody class="tbody" >
 <tr>
  <td> <a href="bpscmotor20.html">BPSC Motor Vehicle Inspector MVI Recruitment Online Form 2020 </a><span style="color:red">Extended</span></td>
  
@@ -79,7 +79,7 @@ footer {
        
       
 </tr>
-<tbody>
+<tbody class="tbody" >
 <tr>
  <td> <a href="bpscmotor20.html">BPSC Motor Vehicle Inspector MVI Recruitment Online Form 2020 </a><span style="color:red">Extended</span></td>
 
@@ -116,7 +116,7 @@ footer {
         
       
 </tr>
-<tbody>
+<tbody class="tbody" >
 <tr>
  <td><a href="drdo2020.html">DRDO Scientist B<br> Recruitment 2020<br> Online Form</a> </td>
  
@@ -151,7 +151,7 @@ footer {
         
       
 </tr>
-<tbody>
+<tbody class="tbody" >
 <tr>
  <td><a href="index1.html">Bihar 10th Result</a></td>
  
@@ -186,7 +186,7 @@ footer {
         
       
 </tr>
-<tbody>
+<tbody class="tbody" >
 <tr>
  <td> Bihar Board 10th Result </td>
  
@@ -221,7 +221,7 @@ footer {
         
       
 </tr>
-<tbody>
+<tbody class="tbody" >
 <tr>
  <td> Bihar Board 10th Result </td>
  
