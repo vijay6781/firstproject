@@ -11,7 +11,7 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
 </head>
 <style type="text/css">
-		@import "{{ site.theme }}";
+    @import "{{ site.theme }}";
 
 footer {
   display: none !important;
@@ -21,13 +21,13 @@ footer {
   display: none !important;
 }
 .tbody {
-  min-height:200px;
-  overflow:scroll;
+  min-height:20px;
+  overflow-y:scroll;
 }
 </style>
 
 <body>
-	
+  
   <div class="container text-center">                             
   <div class="spinner-grow text-danger pt-0 mt-1"></div>
    <div class="spinner-grow text-white"><span style="color:red;text-align:center">Live</span></div>
@@ -35,8 +35,8 @@ footer {
 
 <div class="container-fluid table-hover  table-striped">
   <div class="row text-center mx-auto">
-    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-4 mt-4">	    
-  <table class="table table-bordered">
+    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-4 mt-4">     
+  <table >
 <tr>
   <th scope="col" style="background:#55ff00">Latest Job</th>
       
@@ -97,7 +97,7 @@ footer {
 </table>
     </div>
     <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-3 mt-4">
-     <table class="table table-bordered" >
+     <table >
   
 <tr>
   <th scope="col" style="background:#55ff00">Bihar/up Job</th>
@@ -134,7 +134,7 @@ footer {
 </table >
     </div>
    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-3 mt-4">
-     <table class="table table-bordered">
+     <table >
   
 <tr>
   <th scope="col" style="background:#55ff00">Tech job</th>
@@ -169,7 +169,7 @@ footer {
 </table >
     </div>
    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-3 mt-4">
-     <table class="table table-bordered" >
+     <table >
   
 <tr>
   <th scope="col" style="background:#55ff00">Result</th>
@@ -204,7 +204,7 @@ footer {
 </table >
     </div>
    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-3 mt-4">
-     <table class="table table-bordered">
+     <table >
   
 <tr>
   <th scope="col" style="background:#55ff00">Admit Card </th>
@@ -239,7 +239,7 @@ footer {
 </table >
     </div>
    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-3 mt-4">
-     <table class="table table-bordered">
+     <table >
   
 <tr>
   <th scope="col" style="background:#55ff00">college/university form</th>
@@ -279,8 +279,8 @@ footer {
 <h5><a href="https://vijay6781.github.io/Lifelong/"><span style="text-align:center">Student Book Help</span></a></h5>
 </div>
 <div class="text-center">
-	<h3><span style="text-align:center; color:green">website will be update</span></h3>
-	</div>
+  <h3><span style="text-align:center; color:green">website will be update</span></h3>
+  </div>
   <script src="https://code.jquery.com/jquery-3.5.1.js"></script>  
    
  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
