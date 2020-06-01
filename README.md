@@ -68,31 +68,7 @@ footer {
 
  
 </tr>
-<tr>
- <td> <a href="bpscmotor20.html">BPSC Motor Vehicle Inspector MVI Recruitment Online Form 2020 </a><span style="color:red">Extended</span></td>
- 
-  
-</tr>
 
-<tr>
-  
- <td> <a href="drdo2020.html">DRDO Scientist B Recruitment 2020 Online Form</a> </td>
-
- 
-</tr>
-
-<tr>
-  
- <td><a href="bcece20.html">BCECE City Manager Recruitment Online Form 2020</a><span style="color:red">Extended</span></td>
- 
- 
-</tr>
-<tr>
-
- <td>  CBSE 12th Result</td>
-
- 
-</tr>
 </tbody>
 </table>
     </div>
