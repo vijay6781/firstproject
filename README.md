@@ -30,7 +30,7 @@ footer {
 </div>
 
 <div class="container-fluid table-hover  table-striped">
-  <div class="row text-center">
+  <div class="row text-center mx-auto">
     <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-4 mt-4">	    
   <table >
 <tr>
