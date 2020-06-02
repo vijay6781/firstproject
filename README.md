@@ -170,7 +170,7 @@ footer {
 
 <tr>
   
- <td><a href="http://www.bpsc.bih.nic.in/Advt/NB-2020-05-30-01.pdf">BPSC Assistant 2018 Revised Result</td>
+ <td><a href="http://www.bpsc.bih.nic.in/Advt/NB-2020-05-30-01.pdf">BPSC Assistant 2018 Revised Result</a></td>
 
 </tr>
 
