@@ -142,9 +142,12 @@ footer {
  <td>  CBSE 12th Result</td>
 
 </tr>
+
 </tbody>
+
 </table >
-    </div>
+
+ </div>
    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-3 mt-4">
      <table >
   
@@ -270,4 +273,3 @@ footer {
 
 </body>
 </html>
-
