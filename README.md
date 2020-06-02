@@ -167,7 +167,7 @@ footer {
 
 <tr>
   
- <td> Bihar Board 12th Result </td>
+ <td><a href="http://www.bpsc.bih.nic.in/Advt/NB-2020-05-30-01.pdf">BPSC Assistant 2018 Revised Result</td>
 
 </tr>
 
@@ -195,7 +195,7 @@ footer {
 </tr>
 <tbody class="tbody" >
 <tr>
- <td> Bihar Board 10th Result </td>
+ <td><a href="sscchsl.html">SSC CHSL Left Over Paper Exam Date 2020</td>
  
   
 </tr>
