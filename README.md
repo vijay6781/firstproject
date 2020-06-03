@@ -26,7 +26,7 @@ footer {
 }
 </style>
 
-<body>
+<body data-spy="scroll"  data-offset="50">
   
   <div class="container text-center">                             
   <div class="spinner-grow text-danger pt-0 mt-1"></div>
