@@ -36,7 +36,7 @@ footer {
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="collapsibleNavbar">
-    <ul class="navbar-nav"style="text-color:blue">
+    <ul class="navbar-nav";style="text-color:blue">
       <li class="nav-item">               
        <a class="nav-link" href="https://www.worldometers.info/coronavirus/country/india/">India Corona Case</a>
       </li>
