@@ -30,13 +30,13 @@ footer {
 </style>
 
 <body data-spy="scroll"  data-offset="50">
-  <nav class="navbar navbar-expand-md bg-success navbar-dark mt-1 mb-1">
+  <nav class="navbar navbar-expand-md navbar-dark mt-1 mb-1" style="background:rgb(80,240,60)>
   <a class="navbar-brand" href="#">Home</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="collapsibleNavbar">
-    <ul class="navbar-nav";style="text-color:blue">
+    <ul class="navbar-nav">
       <li class="nav-item">               
        <a class="nav-link" href="https://www.worldometers.info/coronavirus/country/india/">India Corona Case</a>
       </li>
