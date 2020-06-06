@@ -30,7 +30,7 @@ footer {
 </style>
 
 <body data-spy="scroll"  data-offset="50">
-  <nav class="navbar navbar-expand-md navbar-dark mt-1 mb-1" style="background:rgb(80,240,60)">
+  <nav class="navbar navbar-expand-md navbar-dark mt-1 mb-1" style="background:rgb(255, 51, 51)">
   <a class="navbar-brand" href="#">Home</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon"></span>
