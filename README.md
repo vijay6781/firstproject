@@ -30,6 +30,12 @@ footer {
 </style>
 
 <body data-spy="scroll"  data-offset="50">
+    <div class="container text-center">                             
+  <div class="spinner-grow text-danger pt-0 mt-1"></div>
+   <div class="spinner-grow text-white"><span style="color:red;text-align:center">Live</span></div>
+</div>
+  
+  
   <nav class="navbar navbar-expand-md navbar-dark mt-1 mb-1" style="background:rgb(77, 77, 255)">
   <a class="navbar-brand" href="#">Home</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
@@ -46,13 +52,6 @@ footer {
     </ul>
   </div>  
 </nav>
-
-  
-  
-  <div class="container text-center">                             
-  <div class="spinner-grow text-danger pt-0 mt-1"></div>
-   <div class="spinner-grow text-white"><span style="color:red;text-align:center">Live</span></div>
-</div>
 
 <div class="container-fluid table-hover  table-striped">
   <div class="row text-center mx-auto">
