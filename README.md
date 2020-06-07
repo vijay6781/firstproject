@@ -4,6 +4,11 @@
 <head>
   <title>photos </title>
   <meta charset="utf-8">
+  <meta name="description" content=" show result, Sarkari Results, सरकारी रिजल्ट्स - SarkariResult.com provides you all the latest official Sarkari Result, Online Forms, Sarkari Naukri Jobs in various sectors such as Railway, Bank, SSC, Army, Navy, Police, UPPSC, UPSSSC & other sarkari job alerts at one place."></meta>
+<meta name="keywords" content="Sarkari Result, latest sarkari results, Sarkariresult, Sarkari, Sarkariresults"></meta>
+<meta name="rating" content="general" />
+<meta http-equiv="content-language" content="en" />
+<meta name="distribution" content="global" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
