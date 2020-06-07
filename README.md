@@ -48,7 +48,7 @@ display: none;
   <div class="collapse navbar-collapse" id="collapsibleNavbar">
     <ul class="navbar-nav">
       <li class="nav-item">               
-       <a class="nav-link" href="latestjob.html">India Corona Case</a>
+       <a class="nav-link" href="latestjob.html">Latest Job</a>
       </li>
       <li class="nav-item">               
        <a class="nav-link" href="https://www.worldometers.info/coronavirus/country/india/">India Corona Case</a>
