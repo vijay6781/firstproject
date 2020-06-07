@@ -284,6 +284,7 @@ display: none;
     </div>
   </div>
 </div>
+<h3><a href="myphoto.html">gallery</a></h3>
 <div class="text-center mt-3">
 <h5><a href="https://vijay6781.github.io/Lifelong/"><span style="text-align:center">Student Book Help</span></a></h5>
 </div>
