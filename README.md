@@ -4,7 +4,7 @@
 <head>
   <title>photos </title>
   <meta charset="utf-8">
-<meta name="keywords" content="Sarkari Result, latest sarkari results, Sarkariresult, Sarkari, Sarkariresults"></meta>
+<meta name="keywords" content="Sarkari Result, latest sarkari results, Sarkariresult, Sarkari, Sarkariresults">
 <meta name="rating" content="general" />
 <meta http-equiv="content-language" content="en" />
 <meta name="distribution" content="global" />
