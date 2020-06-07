@@ -19,7 +19,7 @@
 footer {
   display: none !important;
 }
-
+ @import "{{ site.theme }}";
 header{
 display: none;
 }
