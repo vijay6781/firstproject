@@ -20,6 +20,10 @@ footer {
   display: none !important;
 }
 
+header{
+display: none;
+}
+
 .btn {
   display: none !important;
 }
