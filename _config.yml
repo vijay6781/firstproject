@@ -2,4 +2,5 @@ theme: jekyll-theme-cayman
 title: Show Result
 description: > # this means to ignore newlines until "show_excerpts:"
   this is created for student help
-show_excerpts: false
+show_excerpts: false # set to true to show excerpts on the homepage
+
