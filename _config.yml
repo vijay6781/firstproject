@@ -1,6 +1,10 @@
 theme: jekyll-theme-cayman
 name: luaphacim site
 title: Show Result
+description: > # this means to ignore newlines until "show_excerpts:"
+  one day i will get my goal.
+
+
  google_analytics: UA-NNNNNNNN-N
  language: ruby
 rvm: 2.5
