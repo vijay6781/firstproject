@@ -2,7 +2,7 @@
 <head>
 <html lang="en">
 <head>
-  <title>photos </title>
+  <title>show result </title>
   <meta charset="utf-8">
 <meta name="keywords" content="Sarkari Result, latest sarkari results, Sarkariresult, Sarkari, Sarkariresults">
 <meta name="rating" content="general" />
