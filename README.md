@@ -291,6 +291,8 @@ display: none;
     </div>
   </div>
 </div>
+
+
 <script type="text/javascript">
      (adsbygoogle = window.adsbygoogle ||  []).push({});
 </script>
@@ -312,7 +314,7 @@ display: none;
 </div> </div>
 
 
-<h3><a href="myphoto.html"><span style="text-align:center">gallery</span></a></h3>
+<h3><a href="myphoto.html"><span style="text:center">gallery</span></a></h3>
 <div class="text-center mt-3">
 <h5><a href="https://vijay6781.github.io/Lifelong/"><span style="text-align:center">Student Book Help</span></a></h5>
 </div>
